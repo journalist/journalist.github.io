@@ -1,0 +1,11 @@
+name: "Journal"
+description: "Travel. News. Opinions."
+
+url: "http://journal.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+
+excerpt_separator: <!--more-->

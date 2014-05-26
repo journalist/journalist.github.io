@@ -1,0 +1,305 @@
+html {
+font-family:"Times New Roman",Sans-Serif;
+}
+
+p.poemtext {
+font-family:"Times New Roman",Sans-Serif;
+font-size: 12pt;
+text-align: justify;
+text-indent: 0px;
+}
+
+p {i
+font-family:"Times New Roman",Sans-Serif;
+font-size: 12pt;
+text-align: justify;
+text-indent: 20px;
+}
+
+.sitetitle{
+font-family:"Times New Roman",Sans-Serif;
+color: #CC0000;
+font-size: 40pt;
+font-weight: bold;
+background-color:transparent;
+width: 100%;
+padding-top: 5px;
+height: 80px;
+margin-left: 28%;
+}
+
+.posttitle {
+color: blue;
+font-size:20pt;
+font-weight: bold;
+}
+
+.postbody {
+background-color: #ffffff;
+}
+
+.postslist {
+max-width: 600px;
+margin-left: 10px;
+}
+
+.postslist > ul, .postslist > ul > li{
+list-style-type: none;
+padding-left: 0;
+}
+
+.moreposts {
+padding: 50px
+}
+
+.moreposts > table{
+width: 100%
+}
+
+
+.moreposts > table  tbody> tr {
+background-color: white;
+
+}
+
+.moreposts > table > tbody> tr > td {
+background-color: #440000;
+color: white;
+font-weight: bold;
+font-size: 15pt;
+padding: 0 10px 0 10px;
+}
+
+.moreposts > table > tbody> tr > td > a {
+text-decoration: none;
+color: white;
+}
+
+
+.sidebar{
+position: fixed;
+color: black;
+float: left;
+width: 300px;
+background-color:#BDBDBD;
+padding-left: 10px;
+margin-top: 10px;
+height: 400px;
+}
+
+p.postdate{
+font-weight: bold;
+font-size: 13pt;
+}
+
+a.no-underline {
+text-decoration:none;
+}
+
+a.postfooter {
+color: red;
+}
+
+.archives-posts-list {
+margin-left: 10px;
+}
+
+
+.archives-post-title {
+color: blue;
+font-size:12pt;
+font-weight: bold;
+}
+
+.archives-post-date {
+font-style: italic;
+font-size: 12pt;
+}
+
+.archives-tag-cloud {
+font-size: 40pt;
+color: black;
+text-align: center;
+}
+
+.archives-tag-cloud > a {
+text-decoration: none;
+}
+
+div.archives-posts-list td {
+padding-right: 10px;
+min-width: 170px;
+}
+
+div.archives-post-tags {
+padding-left: 0em;
+}
+
+.navbar-horz {
+margin-left: 10px;
+}
+
+.navbar-horz td{
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 20px;
+padding-left: 20px;
+color: white;
+background-color: #990000;
+font-size: 15pt;
+font-weight: bold;
+border-radius: 12px;
+}
+
+.navbar-horz a{
+text-decoration: none;
+color: white;
+}
+
+
+.navbar-horz > table > tbody > tr > td > a >img {
+padding: 0 0 0 0;
+height: auto;
+width: 25px;
+}
+
+span.tab{
+padding: 0 25px 0 0;
+}
+
+.center-section {
+margin-left: 25%;
+max-width: 600px;
+}
+
+.footer-copyright {
+font-size: 10pt;
+text-align: center;
+margin-right: 30%;
+padding-top:  500px;
+width: 100%;
+}
+
+
+#disqus_thread {
+margin-left: 350px;
+max-width: 600px;
+}
+
+/* subscribe form */
+
+input[type="text"]:focus {
+    border:1px solid #2E2EFE;
+}
+
+input[type="submit"] {
+background-image: url('img/submit.jpg')
+}
+
+input[type="text"]{
+    height:27px;
+    border:1px solid #dedede;
+    padding:10px;
+    margin-top:3px;
+    font-size:0.9em;
+    color:#3a3a3a;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+}
+
+/* Style the text boxes */
+input[type="text"] {
+	width:400px;
+	height:20px;
+	background:#efefef;
+	border:1px solid #dedede;
+	padding:10px;
+	margin-top:3px;
+	font-size:0.9em;
+	color:#3a3a3a;
+}
+
+/* subscribe button */
+
+input[type="submit"] {
+border-radius: 12px;
+width: 200px;
+font-size: 12pt;
+color: white;
+font-weight: bold;
+background-color: #610B0B;
+}
+
+input[type="submit"]:hover {
+border-radius: 12px;
+width: 200px;
+font-size: 12pt;
+color: #610B0B;
+font-weight: bold;
+background-color: #CECEF6;
+}
+
+/* subscribe form end */
+
+
+/* another tag cloud */
+
+.tag-cloud-posts {
+font-size: 15pt;
+}
+
+.tag-cloud-posts > ul {
+list-style-type: decimal;
+padding-left: 0;
+}
+
+.tag-cloud-posts > ul > li {
+padding-bottom: 15px
+}
+
+/* tag cloud */
+
+.tag-box {
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+
+.tag-box:before, .tag-box:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.tag-box:after {
+  clear: both;
+}
+
+.tag-box.inline li {
+  float: left;
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 2.5;
+}
+
+.tag-box a {
+  padding: 4px 6px;
+  margin: 2px;
+  background-color: #e6e6e6;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.tag-box a span {
+  vertical-align: super;
+  font-size: 10px;
+  font-size: 0.625rem;
+}
+
+/* tag cloud end */
+
