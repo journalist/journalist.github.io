@@ -4,7 +4,7 @@ title: Yes, All Women. Nope. Sorry.
 tags: [oped, elliot rodger, isla vista killings, millennial narcissism]
 ---
 
-Elliot Rodger, a former student of University of California, Santa Barbara, killed a (total of six people and injured thirteen others)[http://time.com/113948/elliot-rodger-ucsb-santa-barbara/]. He then proceeded to kill himself with the same gun.
+Elliot Rodger, a former student of University of California, Santa Barbara, killed a [total of six people and injured thirteen others](http://time.com/113948/elliot-rodger-ucsb-santa-barbara/). He then proceeded to kill himself with the same gun.
 
 A quick google search gives his online footprint in various social media and online forums. The posts indicate a need for approval and insecurity in his part, particularly his posts in the forum BodyBuilding.com.
 
