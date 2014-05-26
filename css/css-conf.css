@@ -18,13 +18,13 @@ text-indent: 20px;
 
 .sitetitle{
 font-family:"Times New Roman",Sans-Serif;
-color: #CC0000;
-font-size: 40pt;
+color: #000000;
+font-size: 50pt;
 font-weight: bold;
 background-color:transparent;
 width: 100%;
 padding-top: 5px;
-height: 80px;
+height: 100px;
 margin-left: 28%;
 }
 
@@ -63,7 +63,7 @@ background-color: white;
 }
 
 .moreposts > table > tbody> tr > td {
-background-color: #440000;
+background-color: #000000;
 color: white;
 font-weight: bold;
 font-size: 15pt;
@@ -145,10 +145,10 @@ padding-bottom: 2px;
 padding-right: 20px;
 padding-left: 20px;
 color: white;
-background-color: #990000;
+background-color: #000000;
 font-size: 15pt;
 font-weight: bold;
-border-radius: 12px;
+border-radius: 1px;
 }
 
 .navbar-horz a{
