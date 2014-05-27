@@ -18,14 +18,15 @@ text-indent: 20px;
 
 .sitetitle{
 font-family:"Times New Roman",Sans-Serif;
-color: #000000;
+color: white;
 font-size: 50pt;
 font-weight: bold;
-background-color:transparent;
-width: 100%;
+background-color: black;
 padding-top: 5px;
+padding-left: 30%;
 height: 100px;
-margin-left: 28%;
+margin-left: 10px;
+border-radius: 30px;
 }
 
 .posttitle {
@@ -142,15 +143,12 @@ float: left;
 }
 
 .navbar-horz td{
-padding-top: 2px;
-padding-bottom: 2px;
-padding-right: 20px;
-padding-left: 20px;
+padding: 12px 20px;
 color: white;
 background-color: #000000;
-font-size: 15pt;
+font-size: 20pt;
 font-weight: bold;
-border-radius: 1px;
+border-radius: 10px;
 width: 25%;
 text-align: center;
 }
