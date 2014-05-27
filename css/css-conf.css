@@ -152,6 +152,7 @@ font-size: 15pt;
 font-weight: bold;
 border-radius: 1px;
 width: 25%;
+text-align: center;
 }
 
 .navbar-horz a{
