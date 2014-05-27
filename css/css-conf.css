@@ -138,6 +138,7 @@ padding-left: 0em;
 .navbar-horz {
 margin-left: 10px;
 width: 25%;
+float: left;
 }
 
 .navbar-horz td{
@@ -169,7 +170,7 @@ padding: 0 25px 0 0;
 }
 
 .center-section {
-margin-left: 25%;
+margin-left: 30%;
 max-width: 600px;
 }
 
